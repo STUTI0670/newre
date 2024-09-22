@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ORFLAX</title>
+    <link rel="shortcut icon" href="im.png" type="image/x-icon">
+    <link rel="stylesheet" href="weare.css">
+    <link rel="stylesheet" href="jo.css" />
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="loader">
+        <h1>ABOUT</h1>
+        <h1>PRODUCT</h1>
+        <h1>CONTACT</h1>
+    </div>
+    
+    <div id="fixed-image">
+        <!-- Add an image or style it in CSS -->
+    </div>
+
+    <div id="main">
+        <div id="left">
+            <h3>Orflax is your go-to site for all kinds of wires and cables you need</h3>
+        </div>
+        <div id="right">
+            <h1>Cables <br> That <br> INTEGRATE</h1>
+        </div>
+    </div>
+
+    <div id="hero-shape">
+        <div id="hero-1"></div>
+        <div id="hero-2"></div>
+        <div id="hero-3"></div>
+    </div>
+
+    <video autoplay loop muted src="path-to-video-file.mp4"></video>
+
+    <div id="page2">
+        <div id="moving-text">
+            <div class="con">
+                <h1>EXPERIENCES</h1>
+                <div class="gola"></div>
+                <h1>CONTENT</h1>
+                <div class="gola"></div>
+                <h1>ENVIRONMENTS</h1>
+                <div class="gola"></div>
+            </div>
+        </div>
+
+        <div id="page2-bottom">
+            <h1>We are a group of design-driven, goal-focused creators, producers, and designers who believe that the details make all the difference.</h1>
+            <div id="bottom-part2">
+                <img src="https://uploads-ssl.webflow.com/64d3dd9edfb41666c35b15b7/64d3dd9edfb41666c35b15d1_Holding_thumb-p-500.jpg" alt="">
+                <p>We love to create, solve, collaborate, and turn amazing ideas into reality.</p>
+            </div>
+        </div>
+    </div>
+
+    <div id="page3">
+        <div id="elem-container">
+            <div class="elem" data-image="https://images.unsplash.com/photo-1701001308648-7b731a52b8d7?w=500">
+                <div class="overlay"></div>
+                <h2>Makers Studio HOI</h2>
+            </div>
+            <!-- More elem divs follow -->
+        </div>
+    </div>
+
+    <div id="page4">
+        <div class="swiper mySwiper">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">Slide 1</div>
+                <div class="swiper-slide">Slide 2</div>
+                <div class="swiper-slide">Slide 3</div>
+                <div class="swiper-slide">Slide 4</div>
+            </div>
+        </div>
+    </div>
+
+    <div id="footer">
+        <div id="footer-div">
+            <!-- Footer content here -->
+        </div>
+        <h1>Sundown</h1>
+    </div>
+
+    <script src="js.js"></script>
+    <script src="scripol.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
